@@ -14,8 +14,7 @@
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yangmingchuan" />
 
-<img align="right" src="![https://github-readme-stats.vercel.app/api?username=yangmingchuan&count_private=true&include_all_commits=true&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff](https://github-readme-stats.vercel.app/api?username=yangmingchuan&count_private=true&include_all_commits=true&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
-" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=yangmingchaun&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
 
 
