@@ -14,3 +14,5 @@
 
 
 ![https://github-readme-stats.vercel.app/api?username=yangmingchuan&count_private=true&include_all_commits=true&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff](https://github-readme-stats.vercel.app/api?username=yangmingchuan&count_private=true&include_all_commits=true&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+
+![https://github-readme-stats.vercel.app/api/top-langs/?username=yangmingchuan](https://github-readme-stats.vercel.app/api/top-langs/?username=yangmingchuan)
