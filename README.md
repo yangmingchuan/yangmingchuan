@@ -1,5 +1,5 @@
 ### Hi there 👋
-  一名 95后 183cm 喜爱手游、二次元、骑行、音乐 XXXL型号Android开发工程师。
+  一名 95后 喜爱手游、二次元、旅游、音乐 XXXL型号Android开发工程师。
 ### 关于我的文章
 **简书**：[小肥羊冲冲冲](https://www.jianshu.com/u/9bcda6e88ac9)  |  **CSDN**：[小肥羊冲冲冲](https://blog.csdn.net/qq_27948659)
 
